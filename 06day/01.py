@@ -1,0 +1,10 @@
+a=int(input('请输入第一个数字:'))
+b=int(input('请输入第二个数字:'))
+c=a+b
+f=a/b
+d=a-b
+e=a*b
+print('加是%d'%c)
+print('减是%d'%d)
+print('×是%d'%e)
+print('÷是%d'%f)
